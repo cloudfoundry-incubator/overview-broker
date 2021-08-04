@@ -17,7 +17,7 @@
     "express-basic-auth": "^1.2.0",
     "express-validator": "^6.1.1",
     "jsonschema": "latest",
-    "moment": "^2.24.0",
+    "moment": "^2.29.1",
     "morgan": "^1.9.1",
     "pug": "latest",
     "randomstring": "^1.1.5",
